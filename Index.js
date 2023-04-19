@@ -31,7 +31,7 @@ app.use(express.json({limit:'10mb'}));
 app.use(cookieParser());
 app.use(cors({
     credentials:true,
-    origin:'https://stately-hamster-0550aa.netlify.app/'
+    origin:'https://tubular-alfajores-36e14d.netlify.app/'
 }))
 
 
